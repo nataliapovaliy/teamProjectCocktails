@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://xanderkiev2022.github.io/CocktailsTeamProject",
+  "homepage": "https://nataliapovaliy.github.io/teamProjectCocktails",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /CocktailsTeamProject/"
+    "build": "parcel build src/*.html --public-url /teamProjectCocktails/"
   },
   "repository": {
     "type": "git",
